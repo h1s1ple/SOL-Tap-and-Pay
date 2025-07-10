@@ -1,7 +1,7 @@
-# Sol Payments
+# SolTapandPay
 
 
-SolPayments is a smart contract program build for the [Solana blockchain](https://solana.com/) that allows merchants to receive crypto-currency payments at their online shops.
+SolTapandPay is a smart contract program build for the [Solana blockchain](https://solana.com/) that allows merchants to receive crypto-currency payments at their online shops.
 
 
 ## Benefits of using SolTapandPay
